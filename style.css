@@ -29,7 +29,7 @@ header h1{
 .navbar ul{
     font-family: sans-serif;
     color: rgb(238, 255, 0);
-    font-size: 25px;
+    font-size: 125%;
     margin-bottom: 30px;
     position: fixed;
     top: 120px;
@@ -62,7 +62,7 @@ a{
 }
 
 footer{
-    padding: 100px;
+    padding: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
